@@ -7,6 +7,23 @@ This repository contains 15 instances for the **Regional Flight Scheduling Probl
 This problem is introduced in an upcoming paper.
 Once the paper will be available, you will find here its bibliographic data and a BibLaTeX entry.
 
+## Citing this repository
+
+You can cite this repository through Zenodo.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7664132.svg)](https://doi.org/10.5281/zenodo.7664132)
+
+```bib
+@misc{rfsp_instances_github,
+    title={Instances for the Regional Flight Scheduling Problem},
+    author={Santini, Alberto},
+    date={2023-02-22},
+    howpublished={Github repository},
+    doi={10.5281/zenodo.7664132},
+    url={https://github.com/alberto-santini/rfsp-instances/}
+}
+```
+
 ## Structure of the instances
 
 The instances are in `json` format.
