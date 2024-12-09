@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these instances, please cite the repository as below."
+message: "If you use these instances, please cite it as below."
 authors:
 - family-names: "Santini"
   given-names: "Alberto"
@@ -9,3 +9,17 @@ version: 1.0
 doi: 10.5281/zenodo.7664132
 date-released: 2022-02-22
 url: "https://github.com/alberto-santini/rfsp-instances"
+preferred-citation:
+  type: article
+  title: "Destination selection and flight scheduling for regional airlines at slot-constrained airports"
+  authors:
+  - family-names: "Santini"
+    given-names: "Alberto"
+    orcid: "0000-0002-0440-0357"
+    doi: 10.1111/itor.13505
+    journal: "International Transactions in Operational Research"
+    year: 2025
+    volume: 32
+    issue: 3
+    start: 1400
+    end: 1421
