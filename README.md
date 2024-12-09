@@ -24,6 +24,23 @@ You can cite this repository through Zenodo.
 }
 ```
 
+## Citing the paper
+
+If you use this repository, please cite the following paper.
+
+```bib
+@article{Regional_Airlines_ITOR,
+  title={Destination selection and flight scheduling for regional airlines at slot-constrained airports},
+  author={Santini, Alberto},
+  journal={International Transactions in Operational Research},
+  year=2025,
+  volume=32,
+  issue=3,
+  pages={1400--1421},
+  doi={10.1111/itor.13505}
+}
+```
+
 ## Structure of the instances
 
 The instances are in `json` format.
